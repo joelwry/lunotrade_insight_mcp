@@ -1,0 +1,5 @@
+.env
+.venv/
+__pycache__/
+paper_journal.db
+cache/
